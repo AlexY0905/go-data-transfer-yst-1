@@ -1,9 +1,8 @@
-module github.com/filecoin-project/go-data-transfer/v2
+module github.com/AlexY0905/go-data-transfer-yst-1/v2
 
 go 1.14
 
 require (
-	github.com/AlexY0905/go-go-storedcounter-yst-1 v1.1.1 // indirect
 	//github.com/AlexY0905/go-go-storedcounter-yst-1/v2 v0.0.0-20200421200003-1c99c62e8a5b
 	github.com/AlexY0905/go-go-storedcounter-yst-1/v2 v2.1.2-0.20201228033613-29a202600323
 	github.com/filecoin-project/go-ds-versioning v0.1.0
